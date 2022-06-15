@@ -1,0 +1,21 @@
+{
+  "main.css": "/static/css/main.6d9900fa.chunk.css",
+  "main.js": "/static/js/main.6100a1b6.chunk.js",
+  "main.js.map": "/static/js/main.6100a1b6.chunk.js.map",
+  "static/js/1.eee8b818.chunk.js": "/static/js/1.eee8b818.chunk.js",
+  "static/js/1.eee8b818.chunk.js.map": "/static/js/1.eee8b818.chunk.js.map",
+  "static/js/2.c672ff7f.chunk.js": "/static/js/2.c672ff7f.chunk.js",
+  "static/js/2.c672ff7f.chunk.js.map": "/static/js/2.c672ff7f.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.cc696fea.js",
+  "runtime~main.js.map": "/static/js/runtime~main.cc696fea.js.map",
+  "static/media/value.csv": "/static/media/value.f5ec9d97.csv",
+  "static/media/logo.png": "/static/media/logo.ea03c85d.png",
+  "static/media/dataset.csv": "/static/media/dataset.8e802951.csv",
+  "static/media/nations-mapping.csv": "/static/media/nations-mapping.73fbba2f.csv",
+  "static/media/overall-mean.csv": "/static/media/overall-mean.b5b45765.csv",
+  "static/media/FIFA_Ranking.csv": "/static/media/FIFA_Ranking.c016f02b.csv",
+  "static/css/main.6d9900fa.chunk.css.map": "/static/css/main.6d9900fa.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.c49363aec0528cf26c08fda5e7729f52.js": "/precache-manifest.c49363aec0528cf26c08fda5e7729f52.js",
+  "service-worker.js": "/service-worker.js"
+}
