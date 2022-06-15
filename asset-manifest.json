@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.6d9900fa.chunk.css",
-  "main.js": "/static/js/main.6100a1b6.chunk.js",
-  "main.js.map": "/static/js/main.6100a1b6.chunk.js.map",
+  "main.js": "/static/js/main.132e657a.chunk.js",
+  "main.js.map": "/static/js/main.132e657a.chunk.js.map",
   "static/js/1.eee8b818.chunk.js": "/static/js/1.eee8b818.chunk.js",
   "static/js/1.eee8b818.chunk.js.map": "/static/js/1.eee8b818.chunk.js.map",
   "static/js/2.c672ff7f.chunk.js": "/static/js/2.c672ff7f.chunk.js",
@@ -16,6 +16,6 @@
   "static/media/FIFA_Ranking.csv": "/static/media/FIFA_Ranking.c016f02b.csv",
   "static/css/main.6d9900fa.chunk.css.map": "/static/css/main.6d9900fa.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.c49363aec0528cf26c08fda5e7729f52.js": "/precache-manifest.c49363aec0528cf26c08fda5e7729f52.js",
+  "precache-manifest.dc3ced2430af19f2a126976e63e8a5b1.js": "/precache-manifest.dc3ced2430af19f2a126976e63e8a5b1.js",
   "service-worker.js": "/service-worker.js"
 }
